@@ -1,10 +1,10 @@
-pipeline {
+ipipeline {
     agent any 
     
         stages {
             stage ('List of Files') {
                 steps {
-                    sh 'mkdir folder1'
+                    sh 'mkdir fold2'
                 }
             }
         }   
